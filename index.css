@@ -1,0 +1,53 @@
+footer{
+	background-color: #19201F;
+	color: white;
+	bottom: 0px;
+	position: absolute;
+	right: 0px;
+	width: 100%;
+	height: 40px;
+	text-align: center;
+}
+body{
+	background-image:url(Image/logo.jpg);
+	background-size: 100%;
+}
+nav{
+	color: black;
+	font-weight: bold;
+}
+nav.menu ul li.btn a{
+	text-decoration: none;
+	color: #E7E6F0;
+}
+nav.menu ul li.btn:hover a{
+	color: #2F2D42;
+}
+nav.menu ul li.btn:hover{
+	background-color: #E7E6F0;
+	transition: 0.5s;
+}
+nav.menu ul li.btn{
+	list-style-type: none;
+	display: inline-block;
+	background-color: #2F2D42;
+	border-style: solid;
+	border-radius: 15px;
+	box-shadow: 5px 10px 8px black;
+}
+nav.menu ul{
+	text-align: center;
+	padding: 60px;
+}
+h1, h3{
+	text-align: center;
+}
+div div.di{
+	padding: 15px;
+}
+div{
+	color: white;
+	background-color: #636179 tr
+	width: 1320px;
+	height: 60px
+}
